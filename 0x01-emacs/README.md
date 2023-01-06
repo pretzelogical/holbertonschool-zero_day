@@ -1,0 +1,1 @@
+This folder contains the required files to complete the emacs lesson from holberton schools.
